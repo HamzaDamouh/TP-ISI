@@ -5,52 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20feecb4-0c28-46c9-9036-2e08ec757366" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../SIRIUS/.idea/SIRIUS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SIRIUS/DCM/DCMdowntown.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SIRIUS/UC Model/U-Connect Detailed.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../School/C&amp;C/anbn/.idea/anbn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../School/C&amp;C/anbn/anbn/AnBn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/TP ISI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-annuaire/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-annuaire/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-annuaire/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-client/src/main/java/episen/ing2/controller/MessageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-client/src/main/java/episen/ing2/micro/MessageData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-client/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-client/src/main/resources/templates/error-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-client/src/main/resources/templates/message-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-service/src/main/java/episen/ing2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-service/src/main/java/episen/ing2/micro/MessageData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-service/src/main/java/episen/ing2/micro/MessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-service/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isi-tp6-admin-console/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isi-tp6-admin-console/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isi-tp6-annuaire/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isi-tp6-annuaire/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isi-tp6-review.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isi-tp6-review/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isi-tp6-review/src/main/java/episen/ing2/controller/ReviewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isi-tp6-review/src/main/java/episen/ing2/persistence/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isi-tp6-review/src/main/java/episen/ing2/persistence/ReviewRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isi-tp6-review/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP-ISI-Siham OUHANI/.idea/TP-ISI-Siham OUHANI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isi-tp6-training/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -88,14 +47,15 @@
     "Spring Boot.Main (1).executor": "Run",
     "Spring Boot.Main (2).executor": "Run",
     "Spring Boot.Main.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Hamza/Desktop/TP finale/isi-tp6-admin-console/src/main/java/episen/ing2/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Hamza/Desktop/TP-ISI/isi-tp6-training/src/main/java/episen/ing2/Main.java",
     "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true"
   }
@@ -166,6 +126,7 @@
       <updated>1738761932461</updated>
       <workItem from="1738761933559" duration="143000" />
       <workItem from="1738762091789" duration="11071000" />
+      <workItem from="1738773461064" duration="955000" />
     </task>
     <servers />
   </component>

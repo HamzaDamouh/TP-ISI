@@ -9,6 +9,7 @@
         <module name="isi-tp6-annuaire" />
         <module name="isi-tp6-admin-console" />
         <module name="isi-tp6-review" />
+        <module name="isi-tp6-training" />
       </profile>
     </annotationProcessing>
   </component>
