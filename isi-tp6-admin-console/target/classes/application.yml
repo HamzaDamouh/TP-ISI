@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: isi-tp6-admin-console
+  security:
+    user:
+      name: admin
+      password: admin
+server:
+  port: 7777
+management:
+  security:
+    enabled: true

@@ -1,0 +1,39 @@
+spring:
+  application:
+    name: isi-tp6-review
+  boot:
+    admin:
+      client:
+        url: http://localhost:7777
+  datasource:
+    driver-class-name: org.h2.Driver
+    password: password
+    username: sa
+    url: jdbc:h2:file:/data/tp6
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: create
+server:
+  port: 7784
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    healthcheck:
+      enabled: true
+    serviceUrl:
+      defaultZone: http://localhost:7783/eureka/
+#TODO ajouter la configuration des actuators
+management:
+  endpoint:
+    health:
+      group:
+        custom:
+          include: diskSpace, ping
+          show-components: always
+          show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: "*"

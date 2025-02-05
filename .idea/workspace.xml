@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20feecb4-0c28-46c9-9036-2e08ec757366" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../SIRIUS/.idea/SIRIUS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SIRIUS/DCM/DCMdowntown.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SIRIUS/UC Model/U-Connect Detailed.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School/C&amp;C/anbn/.idea/anbn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School/C&amp;C/anbn/anbn/AnBn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/TP ISI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-annuaire/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-annuaire/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-annuaire/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-client/src/main/java/episen/ing2/controller/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-client/src/main/java/episen/ing2/micro/MessageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-client/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-client/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-client/src/main/resources/templates/error-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-client/src/main/resources/templates/message-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-service/src/main/java/episen/ing2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-service/src/main/java/episen/ing2/micro/MessageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-service/src/main/java/episen/ing2/micro/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP ISI/isi-tp5-service/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isi-tp6-admin-console/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isi-tp6-admin-console/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isi-tp6-annuaire/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isi-tp6-annuaire/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isi-tp6-review.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isi-tp6-review/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isi-tp6-review/src/main/java/episen/ing2/controller/ReviewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isi-tp6-review/src/main/java/episen/ing2/persistence/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isi-tp6-review/src/main/java/episen/ing2/persistence/ReviewRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isi-tp6-review/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP-ISI-Siham OUHANI/.idea/TP-ISI-Siham OUHANI.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2scjobBk5BFzuHbhJZlEmiU8iRh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.Main (1).executor": "Run",
+    "Spring Boot.Main (2).executor": "Run",
+    "Spring Boot.Main.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Hamza/Desktop/TP finale/isi-tp6-admin-console/src/main/java/episen/ing2/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.Main (2)">
+    <configuration name="Main (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="isi-tp6-review" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="episen.ing2.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="episen.ing2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="isi-tp6-admin-console" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="episen.ing2.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="episen.ing2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="isi-tp6-annuaire" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="episen.ing2.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="episen.ing2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main (2)" />
+        <item itemvalue="Spring Boot.Main (1)" />
+        <item itemvalue="Spring Boot.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20feecb4-0c28-46c9-9036-2e08ec757366" name="Changes" comment="" />
+      <created>1738761932461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738761932461</updated>
+      <workItem from="1738761933559" duration="143000" />
+      <workItem from="1738762091789" duration="11071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
