@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20feecb4-0c28-46c9-9036-2e08ec757366" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/isi-tp6-training/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isi-tp6-training/src/main/java/episen/ing2/controller/TrainingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isi-tp6-training/src/main/java/episen/ing2/persistence/Training.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isi-tp6-training/src/main/java/episen/ing2/persistence/TrainingRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/781aed13-ba9a-43bb-be8a-9596a9e9a1c3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/781aed13-ba9a-43bb-be8a-9596a9e9a1c3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/isi-tp6-training/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/isi-tp6-training/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/isi-tp6-training/src/main/java/episen/ing2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/isi-tp6-training/src/main/java/episen/ing2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +51,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.Main (1).executor": "Run",
     "Spring Boot.Main (2).executor": "Run",
+    "Spring Boot.Main (3).executor": "Run",
     "Spring Boot.Main.executor": "Run",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "21",
@@ -56,11 +62,11 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Hamza/Desktop/TP-ISI/isi-tp6-training/src/main/java/episen/ing2/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Spring Boot.Main (2)">
+  <component name="RunManager" selected="Spring Boot.Main (3)">
     <configuration name="Main (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="isi-tp6-review" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="episen.ing2.Main" />
@@ -87,6 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="isi-tp6-training" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="episen.ing2.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="episen.ing2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="isi-tp6-annuaire" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="episen.ing2.Main" />
@@ -102,9 +121,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.Main (3)" />
+        <item itemvalue="Spring Boot.Main" />
         <item itemvalue="Spring Boot.Main (2)" />
         <item itemvalue="Spring Boot.Main (1)" />
-        <item itemvalue="Spring Boot.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +146,8 @@
       <updated>1738761932461</updated>
       <workItem from="1738761933559" duration="143000" />
       <workItem from="1738762091789" duration="11071000" />
-      <workItem from="1738773461064" duration="955000" />
+      <workItem from="1738773461064" duration="2861000" />
+      <workItem from="1738828665918" duration="2662000" />
     </task>
     <servers />
   </component>
